@@ -42,7 +42,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide.git
+git clone https://github.com/H-Was1/Authv5-toolbox.git
 ```
 
 ### Install packages
